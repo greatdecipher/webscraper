@@ -24,8 +24,12 @@ This is a templated job website, the Scraper filename is __fake.py__
 # Using the Tool
 * Download all files to test the looping.
 * Visit the websites.
-* Right-click anywhere and click on inspect.
-![imdb]( "a title")
+* Right-click anywhere and click on __Inspect__. \
+__Example: In IMDB__
+![imdb](inspect.png)
+
+* Now,you can play around the code and look for each element in the html. Pick
+anything that you would like, then add it into the loop.
 
 
 
